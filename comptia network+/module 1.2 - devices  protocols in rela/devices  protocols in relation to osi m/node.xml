@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<node>
+<version>6</version>
+<dict>
+  <key>title</key><string>Devices &amp; Protocols in Relation to OSI Model</string>
+  <key>nodeid</key><string>e839b1f3-e1d6-4e37-b2f0-4a35af8d245a</string>
+  <key>modified_time</key><integer>1567143262</integer>
+  <key>version</key><integer>6</integer>
+  <key>content_type</key><string>text/xhtml+xml</string>
+  <key>created_time</key><integer>1567143251</integer>
+  <key>info_sort_dir</key><integer>1</integer>
+  <key>order</key><integer>0</integer>
+  <key>info_sort</key><string>order</string>
+</dict>
+</node>

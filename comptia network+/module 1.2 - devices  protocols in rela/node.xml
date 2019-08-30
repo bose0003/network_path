@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<node>
+<version>6</version>
+<dict>
+  <key>expanded</key><true/>
+  <key>title</key><string>Module 1.2 - Devices &amp; Protocols in Relation to OSI Model</string>
+  <key>nodeid</key><string>3cae993e-a0f4-4d4d-8280-7b728d9f9ec7</string>
+  <key>modified_time</key><integer>1567143235</integer>
+  <key>version</key><integer>6</integer>
+  <key>content_type</key><string>application/x-notebook-dir</string>
+  <key>created_time</key><integer>1567143235</integer>
+  <key>info_sort_dir</key><integer>1</integer>
+  <key>order</key><integer>1</integer>
+  <key>info_sort</key><string>order</string>
+</dict>
+</node>
